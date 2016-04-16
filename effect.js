@@ -1,3 +1,5 @@
+$(document).ready(function(){
+
   $('.galeria img').click(function(){
 
       $('.fundo').animate({'opacity':'0.60'}, 500, 'linear');
@@ -13,3 +15,5 @@
     $('.fundo, .lb').css('display', 'none');
     $('.lb img').css('opacity','0');
   });
+
+});
