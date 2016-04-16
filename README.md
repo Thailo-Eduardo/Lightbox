@@ -13,6 +13,6 @@ Continue lendo [wikpedia](https://pt.wikipedia.org/wiki/Lightbox_(script))
 
 ## imagens do projeto
 
-![imagem do projeto](https://github.com/Thailo-Eduardo/Lightbox/blob/master/imagens/imagem%20projeto%201.jpg =100x)
+![imagem do projeto](https://github.com/Thailo-Eduardo/Lightbox/blob/master/imagens/imagem%20projeto%201.jpg)
 
-![imagem do projeto](https://github.com/Thailo-Eduardo/Lightbox/blob/master/imagens/imagem%20projeto%202.jpg =100x)
+![imagem do projeto](https://github.com/Thailo-Eduardo/Lightbox/blob/master/imagens/imagem%20projeto%202.jpg)
